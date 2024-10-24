@@ -10,7 +10,9 @@ Enter NetShare Emulation Manager, a tool I rewrote from the one I delivered to t
 
 In short, this is a Python-based tool for emulating network drive connections in a local environment for legacy (and frankly bad written) Excel macros. It provides a GUI for selecting different brands to emulate a SharePoint directory and map it to a virtual network drive.
 
-![Screenshot](github/netshare-emulator-manager_screenshot.png)
+<p align="center">
+    <img src="github/netshare-emulator-manager_screenshot.png" width="450">
+</p>
 
 ## Features
 
